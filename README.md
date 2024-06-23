@@ -9,6 +9,6 @@ __Reason__ : 1. Making External API Requests: here oue backend needs to communic
 
 __This is common in scenarios like:__
 
-Fetching Data: Your backend might need to fetch data from third-party APIs to process and return to the frontend.
+__Fetching Data__: Your backend might need to fetch data from third-party APIs to process and return to the frontend.
 
-Service Integration: Integrating with services like payment gateways (e.g., Stripe), authentication providers (e.g., OAuth with Google or Facebook), or any other external service that requires API calls.
+__Service Integration__: Integrating with services like payment gateways (e.g., Stripe), authentication providers (e.g., OAuth with Google or Facebook), or any other external service that requires API calls.

@@ -12,3 +12,5 @@ __This is common in scenarios like:__
 __Fetching Data__: Your backend might need to fetch data from third-party APIs to process and return to the frontend.
 
 __Service Integration__: Integrating with services like payment gateways (e.g., Stripe), authentication providers (e.g., OAuth with Google or Facebook), or any other external service that requires API calls.
+
+2.) __Third party API__ 
